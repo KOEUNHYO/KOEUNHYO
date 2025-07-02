@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontAlign=80&fontAlignY=40&color=gradient)
+# 우리FISA💻
+## 1주차
+- 250702(2일차)
+  
+  🤜 Keep : 일찍 일어남, 열심히 하려는 마음가짐
+  
+  🤔 Problem : 아직 파이썬 어려움, github도 어려움
+  
+  🌱 Try : github 꾸미기
