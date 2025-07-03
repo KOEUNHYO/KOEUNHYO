@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontAlign=80&fontAlignY=40&color=gradient)
 # 고은효(KO EUNHYO)
-조금씩 조금씩...🐌
+
 
 
   
