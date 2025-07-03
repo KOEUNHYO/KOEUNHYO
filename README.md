@@ -17,15 +17,5 @@ Here are some ideas to get you started:
 # 고은효(KO EUNHYO)
 조금씩 조금씩...🐌
 
-#### 우리FISA💻
-###### 1주차
-- 250702(2일차)
-  
-  🤜 Keep : 일찍 일어남, 열심히 하려는 마음가짐
-  
-  🤔 Problem : 아직 파이썬 어려움, github도 어려움
-  
-  🌱 Try : github 꾸미기
 
-  🔭 오늘 배운거 : Python 기초(연산자, Dictionary, Set, 복사)
   
